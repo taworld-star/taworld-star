@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```python
 class DataEnthusiast:
@@ -19,7 +19,7 @@ class DataEnthusiast:
         self.language_spoken = ["id_ID", "en_US"]
         
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and learn together! 🚀")
+        print("Thanks for visiting my profile! Let's connect and learn together! ")
 
 me = DataEnthusiast()
 me.say_hi()
@@ -27,39 +27,40 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🎯 Currently Focusing On:
-- 🤖 **Artificial Intelligence** - Exploring the world of intelligent systems
-- 🧠 **Machine Learning** - Building models that learn from data
-- 📊 **Data Analysis** - Turning raw data into meaningful insights
+###  Currently Focusing On:
+-  **Artificial Intelligence** - Exploring the world of intelligent systems
+-  **Machine Learning** - Building models that learn from data
+- **Data Analysis** - Turning raw data into meaningful insights
 
-### 🎓 Academic Journey:
-- 📚 Working on **final project** involving: 
+### Academic Journey:
+- Working on **final project** involving: 
   - Data Processing & Cleaning
   - Data Visualization
   - Statistical Interpretation
+  - Project
   
-### 📖 Continuous Learning:
-- 🎥 Active in **online courses** & workshops
-- 🌐 Expanding knowledge in **Data Science & AI**
-- 💡 Always eager to learn new technologies
+### Continuous Learning:
+-  Active in **online courses** & workshops
+-  Expanding knowledge in **Data Science & AI**
+- Always eager to learn new technologies
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Science & ML
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 Tools
+### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,7 +70,7 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taworld-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -86,11 +87,11 @@ me.say_hi()
 
 ---
 
-## 🎯 Goals & Aspirations
+##  Goals & Aspirations
 
 <div align="center">
 
-| 🌱 Learning | 🚀 Building | 🤝 Connecting |
+|  Learning |  Building |  Connecting |
 |:---:|:---:|:---:|
 | Deepening ML knowledge | Real-world data projects | With fellow enthusiasts |
 | Exploring Deep Learning | AI-powered solutions | Collaborative learning |
@@ -100,12 +101,12 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sustrisimamora/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sustrisimamora0413@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 </div>
@@ -114,7 +115,7 @@ me.say_hi()
 
 <div align="center">
   
-### 💬 Quote I Live By
+### Quote I Live By
   
 > *"Data is the new oil, but like oil, it's valuable only when refined."*
 
