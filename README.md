@@ -13,7 +13,7 @@
 ```python
 class DataEnthusiast:
     def __init__(self):
-        self.name = "Taworld"
+        self.name = "Sustri"
         self.role = "Informatics Student"
         self.focus = ["AI", "Machine Learning", "Data Analysis"]
         self.language_spoken = ["id_ID", "en_US"]
@@ -39,12 +39,6 @@ me.say_hi()
   - Statistical Interpretation
   - Project
   
-### Continuous Learning:
--  Active in **online courses** & workshops
--  Expanding knowledge in **Data Science & AI**
-- Always eager to learn new technologies
-
----
 
 ##  Tech Stack & Tools
 
@@ -107,7 +101,7 @@ me.say_hi()
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sustrisimamora/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sustrisimamora0413@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sustrysmr)
 
 </div>
 
