@@ -25,7 +25,8 @@ me = DataEnthusiast()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 ###  Currently Focusing On:
 -  **Artificial Intelligence** - Exploring the world of intelligent systems
