@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Sustri Simamora profile header">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="0.5" stop-color="#312e81"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+    <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="24" fill="url(#bg)"/>
+  <circle cx="1020" cy="40" r="150" fill="#67e8f9" opacity=".08"/>
+  <circle cx="1100" cy="180" r="190" fill="#a5b4fc" opacity=".08"/>
+  <path d="M0 190 C220 135 330 235 540 180 S900 135 1200 185 V230 H0Z" fill="#020617" opacity=".45"/>
+  <text x="600" y="96" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="middle">Sustri Simamora</text>
+  <text x="600" y="137" fill="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle">Informatics Student  |  Data &amp; AI Enthusiast</text>
+  <path d="M490 158 H710" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+</svg>
